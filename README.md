@@ -1,3 +1,4 @@
+![logo](https://github.com/amu5236/PowerBI-Dashboard-Mobile-sales-data/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm AMIT KANOJIA</h1>
 <h3 align="center">A passionate Data Aanlyst from India</h3>
 
