@@ -1,4 +1,7 @@
-![logo](https://github.com/amu5236/PowerBI-Dashboard-Mobile-sales-data/blob/main/banner.jpg)
+
+<p align="center">
+  <img src="https://github.com/amu5236/PowerBI-Dashboard-Mobile-sales-data/blob/main/banner.jpg" alt="banner" style="width:100%; max-width:1200px;">
+</p>
 <h1 align="center">Hi 👋, I'm AMIT KANOJIA</h1>
 <h3 align="center">A passionate Data Aanlyst from India</h3>
 
