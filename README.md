@@ -55,7 +55,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amu5236&show_icons=true&locale=en&layout=compact" alt="amu5236" /></p>
+<p>Most Languages Used : Python,SQL,R</p>
 
 <!-- Custom badges for highlighting main languages -->
 <p align="left">
