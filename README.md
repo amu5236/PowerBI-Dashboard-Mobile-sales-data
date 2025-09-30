@@ -1,3 +1,6 @@
+
+# 📊 PowerBI-Dashboard-Mobile-sales-data
+👉 [View Power BI Project](https://app.powerbi.com/reportEmbed?reportId=dd38cc56-6b09-4368-bb23-88b0ca3d5184&autoAuth=true&ctid=6234e82b-0e17-4746-965c-ce13cd1cce72)
 <p align="center">
   <img src="https://github.com/amu5236/PowerBI-Dashboard-Mobile-sales-data/blob/main/banner.jpg" alt="banner" style="width:100%; max-width:1200px;">
 </p>
@@ -70,6 +73,5 @@
 
 ---
 
-# 📊 PowerBI-Dashboard-Mobile-sales-data
-👉 [View Power BI Project](https://app.powerbi.com/reportEmbed?reportId=dd38cc56-6b09-4368-bb23-88b0ca3d5184&autoAuth=true&ctid=6234e82b-0e17-4746-965c-ce13cd1cce72)
+
 
