@@ -1,77 +1,132 @@
-
-# 📊 PowerBI-Dashboard-Mobile-sales-data
-👉 [View Power BI Project](https://app.powerbi.com/reportEmbed?reportId=dd38cc56-6b09-4368-bb23-88b0ca3d5184&autoAuth=true&ctid=6234e82b-0e17-4746-965c-ce13cd1cce72) ⬅️
+<!-- ===================== ANIMATED HEADER ===================== -->
 <p align="center">
-  <img src="https://github.com/amu5236/PowerBI-Dashboard-Mobile-sales-data/blob/main/banner.jpg" alt="banner" style="width:100%; max-width:1200px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:F2C811&height=220&section=header&text=Mobile%20Sales%20Dashboard&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Power%20BI%20%7C%20Excel%20%7C%20Data%20Storytelling&descAlignY=58&descSize=18" alt="Mobile Sales Dashboard banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm AMIT KANOJIA</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amu5236&label=Profile%20views&color=0e75b6&style=flat" alt="amu5236" /> </p>
-
-- 👨‍💻 All of my projects are available at [Portfolio Website](file:///C:/Users/ashis/Downloads/Project/Portfolio%20website/index.html#)
-
-- 📫 How to reach me **Co1905630354@gmail.com**
-
-- ⚡ Fun fact **I am Funny 😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amit-kanojia-5263ba2a0" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit kanojia" height="30" width="40" />
-</a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/azure-1.png" alt="azure" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+<p align="center">
+  <a href="https://github.com/amu5236/PowerBI-Dashboard-Mobile-sales-data">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F2C811&center=true&vCenter=true&width=700&lines=Which+brand+sells+the+most%3F;Which+cities+drive+the+sales%3F;Which+payment+method+do+customers+prefer%3F;Data+turned+into+decisions." alt="Typing animation" />
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>Most Languages Used : Python,SQL,R</p>
-
-<!-- Custom badges for highlighting main languages -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amu5236&show_icons=true&locale=en" alt="amu5236" /></p>
+<p align="center">
+  <a href="https://app.powerbi.com/reportEmbed?reportId=dd38cc56-6b09-4368-bb23-88b0ca3d5184&autoAuth=true&ctid=6234e82b-0e17-4746-965c-ce13cd1cce72">
+    <img src="https://img.shields.io/badge/▶%20Open%20Live%20Dashboard-F2C811?style=for-the-badge&logoColor=black&labelColor=0f2027" alt="Open live dashboard" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amu5236&" alt="amu5236" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amu5236/PowerBI-Dashboard-Mobile-sales-data/main/banner.jpg" alt="Dashboard preview" width="100%" style="max-width:1200px;" />
+</p>
 
 ---
 
+## 📌 About the Project
+
+An interactive **Power BI dashboard** that analyses mobile phone sales data. It shows **sales, quantity and transactions** by **city, brand and payment method**, so a manager can see at a glance what is selling, where, and how customers pay.
+
+## 🎯 Business Questions Answered
+
+| Question | Where to look in the dashboard |
+|---|---|
+| What are total sales, quantity sold and transactions? | KPI cards |
+| Which brand performs best? | Brand wise charts |
+| Which cities bring the most sales? | City chart and map |
+| Which payment method do customers use most? | Payment method chart |
+
+## ⚙️ Workflow
+
+```text
+Raw sales data (Excel)  →  Clean and prepare  →  Power BI data model  →  KPI cards, charts, maps  →  Insights and storytelling
+```
+
+1. **Collect and clean:** gathered the sales data in Excel, fixed errors and prepared it for analysis.
+2. **Model:** loaded the data into Power BI and built the data model.
+3. **Visualise:** created KPI cards, charts and maps with slicers for easy filtering.
+4. **Tell the story:** summarised the top performing brand, top cities and most used payment method to support data driven decisions.
+
+<details>
+<summary><b>🔍 Key Insights (click to expand)</b></summary>
+
+<br>
+
+- 🏆 The **top performing brand** stands out clearly in sales and quantity.
+- 🌆 A few **top cities** contribute most of the sales, which shows where to focus stock and marketing.
+- 💳 One **payment method is used the most**, so promoting it can speed up checkout.
+
+> Add your exact brand names, city names and numbers here to make this section stronger.
+
+</details>
+
+<details>
+<summary><b>🛠️ Tools Used (click to expand)</b></summary>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🚀 How to Use (click to expand)</b></summary>
+
+<br>
+
+1. Click **Open Live Dashboard** above to view the report in your browser.
+2. Use the slicers to filter by city, brand or payment method.
+3. Hover over charts and the map to see exact values.
+
+</details>
+
+---
+
+<h2 align="center">Hi 👋, I'm Amit Kanojia</h2>
+<h3 align="center">A passionate Data Analyst from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amu5236&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+- 👨‍💻 All my projects are on my [Portfolio Website](https://amu5236.github.io)
+- 📫 Reach me at **Co1905630354@gmail.com**
+- ⚡ Fun fact: **I am funny 😂**
+
+<h3 align="center">🤝 Connect with me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/amit-kanojia-5263ba2a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/amu5236"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:Co1905630354@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://amu5236.github.io"><img src="https://img.shields.io/badge/Portfolio-FF8F00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amu5236&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amu5236&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amu5236&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,50:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
+</p>
 
 
